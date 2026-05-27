@@ -260,14 +260,6 @@ Our vision is to combine **technology and agriculture** to create smarter, susta
 
 ---
 
-# 📌 Project Status
-
-🚧 **Currently under development and improvement**
-
-More smart features coming soon.
-
----
-
 # 📜 License
 
 This project is developed for educational and research purposes.
